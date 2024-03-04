@@ -1,3 +1,6 @@
+# MODIFIED
+This is a modified template `npm create vite@latest` specifically version `5.2.1`. Please refer to this [commit](https://github.com/0x6563/vite-web-component/commit/b01b4f17e51cacd27016dbc746653260c787d1b4) to see what was changed. [build.html](https://github.com/0x6563/vite-web-component/blob/b01b4f17e51cacd27016dbc746653260c787d1b4/build.html) is an optional file included for post build testing. 
+
 # Vue 3 + TypeScript + Vite
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
